@@ -1,6 +1,7 @@
 /tensorflow/dataset/
 /tensorflow/Deep-Learning-21-Examples-master
 /dataset/
+/MachineLearning_ios/Pods
 .DS_Store
 pytorch/.DS_Store
 tensorflow/.DS_Store
