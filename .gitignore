@@ -1,0 +1,9 @@
+/tensorflow/dataset/
+/tensorflow/Deep-Learning-21-Examples-master
+/dataset/
+.DS_Store
+pytorch/.DS_Store
+tensorflow/.DS_Store
+pytorch/.DS_Store
+*.pyc
+

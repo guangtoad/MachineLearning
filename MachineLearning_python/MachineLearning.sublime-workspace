@@ -1,0 +1,1130 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"SQL",
+				"SQLiteDB"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"post",
+				"postUrlArray"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"piwi",
+				"post_piwik_api_getBulkRequest"
+			],
+			[
+				"pos",
+				"post_url"
+			],
+			[
+				"cre",
+				"createMD"
+			],
+			[
+				"E",
+				"ExportOptionsPlist"
+			],
+			[
+				"Dat",
+				"DATE"
+			],
+			[
+				"b",
+				"buildPath"
+			],
+			[
+				"ar",
+				"archivePath"
+			],
+			[
+				"a",
+				"archivePath"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"fl",
+				"FlatList"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"Text",
+				"TextInput"
+			],
+			[
+				"tex",
+				"TextInput"
+			],
+			[
+				"root",
+				"rootView"
+			],
+			[
+				"sa",
+				"span\tTag"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mark",
+				"marker-end"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"c",
+				"class\tNew Class"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"TG",
+				"TGLog"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"h",
+				"HelloWorld"
+			],
+			[
+				"py",
+				"pyclass"
+			],
+			[
+				"f",
+				"function1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/User/shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Kotlin/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/Kotlin/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/Kotlin/Kotlin.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Kotlin/Kotlin.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Shell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/JSC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JSC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Shell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/swift.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/shell.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pages",
+				"Package Control: List Packages"
+			],
+			[
+				"install packge",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"blu",
+				"Build With: Lua"
+			],
+			[
+				"buli",
+				"Build: Cancel"
+			],
+			[
+				"",
+				"Build With: swift"
+			],
+			[
+				"bu",
+				"Build With: Lua"
+			],
+			[
+				"bule",
+				"Build With: shell"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Golite: Install Dependencies"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pagein",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"lua",
+				"Build With: Lua"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pagelis",
+				"Package Control: List Packages"
+			],
+			[
+				"packgein",
+				"Package Control: Install Package"
+			],
+			[
+				"ru",
+				"GoSublime: Run Tests"
+			],
+			[
+				"fu",
+				"Snippet: function"
+			],
+			[
+				"insata",
+				"Package Control: Install Package"
+			],
+			[
+				"go",
+				"Snippet: go func()"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 334.0,
+		"history":
+		[
+			"packge control",
+			"packge control包",
+			"asd",
+			"asd\\\\",
+			"mport urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"mysql",
+			"sel",
+			"asd",
+			"go",
+			"lua",
+			"python",
+			"lu a",
+			"he l p",
+			"ublime text命令面"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/home/MyWorkSpace/MachineLearning/byTensorflow/tgtensorflow.py",
+		"/Users/home/MyWorkSpace/Web/php/ELC_API_Logon.php",
+		"/Users/home/MyWorkSpace/Web/php/phpinput_server.php",
+		"/Users/home/MyWorkSpace/Web/php/postDateEcho.php",
+		"/Users/home/MyWorkSpace/Web/php/php.sublime-project",
+		"/Users/home/MyWorkSpace/Web/php/datatext.xml",
+		"/Users/home/MyWorkSpace/Web/php/public.php",
+		"/Users/home/MyWorkSpace/Web/php/php.sublime-workspace",
+		"/Users/home/MyWorkSpace/Web/php/phphelper/httphelper.php",
+		"/Users/home/MyWorkSpace/Web/php/b.php",
+		"/Users/home/MyWorkSpace/Web/php/dome3.php",
+		"/Users/home/MyWorkSpace/Web/php/encrypttool.php",
+		"/Users/home/Downloads/del_cache.sh",
+		"/Users/home/MyWorkSpace/Web/php/ecl_api_test.php",
+		"/Users/home/MyWorkSpace/Web/php/post2.php",
+		"/Users/home/MyWorkSpace/Web/php/phpinput_post.php",
+		"/Users/home/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/home/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/home/Library/Containers/com.luckymarmot.Paw/Data/Library/Application Support/com.luckymarmot.Paw/Extensions/io.blackcode.Auth0Token/Auth0Token.js",
+		"/Users/home/MyWork/QB/iOS packaging/IIIP/bpp2ipa.sh",
+		"/Users/home/MyWork/QB/iOS packaging/IIIP/bpp2ipa2.sh",
+		"/Users/home/MyWork/QB/iOS packaging/IIIP/bpp2ipa 2.sh",
+		"/Users/home/Desktop/untitled.xml",
+		"/Users/home/MyWork/COT/index.js",
+		"/Users/home/MyWork/COT/package.json",
+		"/Users/home/MyWorkSpace/Web/php/piwik.html",
+		"/Users/home/MyWorkSpace/Web/php/piwikAPITest.php",
+		"/Users/home/MyWorkSpace/Web/web.py-master/hello/hello.pyc",
+		"/Users/home/MyWorkSpace/Web/web.py-master/hello/hello.py",
+		"/Users/home/MyWorkSpace/Web/index.html",
+		"/Users/home/MyWorkSpace/Web/shareTest/index.html",
+		"/Users/home/MyWorkSpace/Web/shareTest/description.html",
+		"/Users/home/MyWorkSpace/Web/php/success.php",
+		"/Users/home/MyWorkSpace/Web/php/piwikAPI.php",
+		"/Users/home/MyWorkSpace/Web/php/piwikAPI3.php",
+		"/Users/home/MyWorkSpace/Web/php/piwikAPI3 2.php",
+		"/Users/home/MyWorkSpace/Web/style/tablestyle.css",
+		"/Users/home/MyWorkSpace/Web/css/tgcss.css",
+		"/Users/home/MyWorkSpace/Web/style/style.css",
+		"/Users/home/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/home/MyWorkSpace/Web/shareTest/favoritelist.html",
+		"/Users/home/MyWorkSpace/SCDOME/package.json",
+		"/Users/home/MyWorkSpace/Web/php/login.html",
+		"/Users/home/MyWorkSpace/Web/php/data.txt",
+		"/Users/home/MyWorkSpace/Web/dangmianfu_demo_php2/index.php",
+		"/Users/home/MyWorkSpace/Web/dangmianfu_demo_php2/f2fpay/barpay_test.php",
+		"/Users/home/MyWorkSpace/Web/dangmianfu_demo_php2/f2fpay/qrpay_test.php",
+		"/Users/home/MyWorkSpace/SCDOME/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js",
+		"/Users/home/MyWorkSpace/SCDOME/App.js",
+		"/Users/home/MyWorkSpace/SCDOME/node_modules/react-native/Libraries/Renderer/ReactNativeRenderer-dev.js",
+		"/Users/home/MyWorkSpace/SCDOME/node_modules/react-native/Libraries/ReactNative/renderApplication.js",
+		"/Users/home/MyWorkSpace/Web/shareTest/untitled.html",
+		"/Users/home/MyWorkSpace/TG/TG/oclint_apply.sh",
+		"/Users/home/MyWorkSpace/React/ReactNative/ReactNativeObj/ReactNativeObj/package.json",
+		"/Users/home/MyWork/QB/SFOD/SQB内部/iOS/smartGLink_2.03_xcode9/Podfile",
+		"/Users/home/Desktop/Bulid/smartGlink201805081100/ExportOptions.plist",
+		"/Users/home/MyWorkSpace/Script/ShellScript/XcodeObjBuild.sh",
+		"/Users/home/Desktop/build.sh",
+		"/Users/home/MyWorkSpace/Script/ShellScript/xcodebuild.sh",
+		"/Users/home/Desktop/未命名文件夹 2/build.sh",
+		"/Users/home/MyWorkSpace/script/xcodebuild.sh",
+		"/Users/home/Desktop/未命名文件夹 2/test.sh",
+		"/Users/home/MyWorkSpace/script/archive.sh",
+		"/Users/home/MyWork/QB/MyToyota/basecode/MyTOYOTA_1222/20171222/20171222_iOS/Pods/Realm/build.sh",
+		"/Users/home/MyWork/school/CampusInformatization/Pods/RealmSwift/build.sh",
+		"/Users/home/MyWork/QB/MyToyota/basecode/MyTOYOTA_1222/20171222/20171222_iOS/Pods/RealmSwift/build.sh",
+		"/Users/home/MyWork/school/CampusInformatization/Pods/Realm/build.sh",
+		"/Users/home/MyGit/tensorflow/tensorflow/contrib/makefile/compile_ios_tensorflow.sh",
+		"/Users/home/MyWorkSpace/TensorFlow/tensorflow/tensorflow/contrib/makefile/compile_ios_tensorflow.sh",
+		"/Users/home/Desktop/wangluoku/Alcatraz-master/Scripts/install.sh",
+		"/Users/home/MyWorkSpace/Web/react-native/scripts/objc-test.sh",
+		"/Users/home/MyWorkSpace/helloworld/ssshh.sh",
+		"/Users/home/MyWork/QB/eLexusClub/obj/test_sdk_build.sh",
+		"/Users/home/MyWorkSpace/script/a 2.sh",
+		"/Users/home/MyWorkSpace/script/a 3.sh",
+		"/Users/home/MyWorkSpace/script/a 4.sh",
+		"/Users/home/MyWorkSpace/script/a.sh",
+		"/Users/home/MyWorkSpace/script/build.sh",
+		"/Users/home/MyWorkSpace/script/createHttpsKey.sh",
+		"/Users/home/MyWorkSpace/script/tomcat 2.sh",
+		"/Users/home/MyWorkSpace/script/tomcat_shutdown.sh",
+		"/Users/home/MyWorkSpace/script/tomcat_startup.sh",
+		"/Users/home/MyWorkSpace/script/tomcat.sh",
+		"/Users/home/MyWorkSpace/C#/hello.cs",
+		"/Users/home/Downloads/SocketServerAcceptMultipleClient/SocketClient/Program.cs",
+		"/Users/home/Downloads/SocketServerAcceptMultipleClient/SocketServerAcceptMultipleClient/SocketServer.cs",
+		"/Users/home/MyWorkSpace/C#/using System;.cs",
+		"/opt/local/var/macports/sources/rsync.macports.org/macports/release/tarballs/ports/sysutils/anacron/files/anacron.sh",
+		"/opt/local/var/macports/sources/rsync.macports.org/macports/release/tarballs/ports/java/aspectj/files/ajc.sh",
+		"/Users/home/Desktop/tool/rabbitmq.sh",
+		"/Applications/SourceOffSite/gtk/share/doc/gettext/examples/hello-sh/hello.sh",
+		"/Users/home/MyWorkSpace/helloworld/hellosh.sh",
+		"/opt/local/var/macports/sources/rsync.macports.org/macports/release/tarballs/ports/x11/xinit/files/xinitrc.d/98-user.sh",
+		"/opt/local/share/doc/gettext/examples/hello-sh/hello.sh",
+		"/Users/home/Desktop/MyTest/1 2.sh",
+		"/Users/home/Desktop/post text/postTest.sh",
+		"/Users/home/152.jmx",
+		"/Users/home/Desktop/TGShare/TGShare/Assets.xcassets/LaunchImage.launchimage/Contents.json",
+		"/Users/home/MyWorkSpace/help.cpp",
+		"/Users/home/Desktop/post130.jmx",
+		"/Users/home/Desktop/rabbitmq.sh",
+		"/Users/home/Desktop/zh-cn.json",
+		"/Users/home/Downloads/rabbit_localhost_2018-4-8.json",
+		"/Users/home/MyWorkSpace/LOCSSS/Podfile",
+		"/Users/home/Desktop/MQTT/Podfile",
+		"/usr/local/etc/rabbitmq/rabbitmq-env.conf",
+		"/Users/home/Documents/新建文本文档 (3).txt",
+		"/Users/home/Downloads/AR/FaultIImages.json",
+		"/Users/home/MyWorkSpace/iOS/BASE64SSS/Podfile",
+		"/Users/home/Documents/AR/AR/A00B.html",
+		"/Users/home/MyWork/QB/SFOD/SQB内部/iOS/smartGLink_dev/Podfile",
+		"/Users/home/Desktop/AR/LogoImages.json",
+		"/Users/home/MyWork/QB/eLexusClub/obj/smartGLink_Simulator/smartGLink_cn/Images.xcassets/LaunchImage.launchimage/Contents.json",
+		"/Users/home/MyWorkSpace/helloworld/helloc.c",
+		"/Users/home/MyWorkSpace/helloworld/testclass.cpp",
+		"/Users/home/MyWorkSpace/helloworld/helloc++.cpp",
+		"/Users/home/Library/Application Support/Sublime Text 3/Packages/User/g++.sublime-build",
+		"/Users/home/MyWorkSpace/TensorFlow/Number/see_number.py",
+		"/private/etc/apache2/users/.username.conf.swo",
+		"/Users/home/MyWorkSpace/Web/logs/dummy-host2.example.com-access_log",
+		"/private/etc/apache2/extra/httpd-ssl.conf",
+		"/private/etc/apache2/ssl/app.csr",
+		"/Users/home/MyWorkSpace/Web/ios/eLexusClub_2.0.3_RF_HK.plist",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/home/MyWorkSpace/Web/readme.html",
+		"/Users/home/MyWorkSpace/Web/ipa.html",
+		"/Users/home/Desktop/发布包/eLexusClub_2.0.3_RF_HK.plist",
+		"/Users/home/Desktop/发布包/eLexusClub_3.0.0_UnityAR_JZ.plist"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/home/Desktop":
+	{
+		"height": 162.0
+	},
+	"output.9o:///Users/home/Desktop/hello":
+	{
+		"height": 162.0
+	},
+	"output.9o:///Users/home/MyWorkSpace/helloworld":
+	{
+		"height": 366.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 41.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 169.0
+	},
+	"output.exec":
+	{
+		"height": 300.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MachineLearning.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"hellojava.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/MyWorkSpace/MachineLearning/MachineLearning.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 209.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"hello"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
